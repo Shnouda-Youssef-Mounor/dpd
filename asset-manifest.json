@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dpd/static/css/main.6ea85d0c.css",
+    "main.js": "/dpd/static/js/main.602de594.js",
+    "static/js/453.297527af.chunk.js": "/dpd/static/js/453.297527af.chunk.js",
+    "static/media/R.png": "/dpd/static/media/R.3c1c4714e4b426af9616.png",
+    "static/media/contactus.jpg": "/dpd/static/media/contactus.3cf66b7ec5cd03ff6517.jpg",
+    "static/media/pngtree-sweet-potato-leaf-vegetarian-plant-vegetable-png-image_6645184.png": "/dpd/static/media/pngtree-sweet-potato-leaf-vegetarian-plant-vegetable-png-image_6645184.94d0b371e7b621481902.png",
+    "static/media/5.png": "/dpd/static/media/5.df231ce5f1cdb5d0912d.png",
+    "static/media/4.png": "/dpd/static/media/4.f2d7aaf0ae23c736b4b1.png",
+    "static/media/madonna.jpg": "/dpd/static/media/madonna.115349a5bd7158cac616.jpg",
+    "static/media/3.png": "/dpd/static/media/3.6795a3759cf93d308e91.png",
+    "static/media/2.png": "/dpd/static/media/2.920d582260f25d484980.png",
+    "static/media/1.png": "/dpd/static/media/1.7606702358a918fa147c.png",
+    "static/media/how-to-grow-potatoes.png": "/dpd/static/media/how-to-grow-potatoes.6664756a81586b79d39f.png",
+    "static/media/shnouda.jpg": "/dpd/static/media/shnouda.43f1339ce8098d2af7ad.jpg",
+    "static/media/nourhan.jpg": "/dpd/static/media/nourhan.c59fb4ca30974cd49059.jpg",
+    "static/media/bavly.jpg": "/dpd/static/media/bavly.2a160f9ff70ff1f08974.jpg",
+    "static/media/jack.jpg": "/dpd/static/media/jack.069ef54971a1f4455b46.jpg",
+    "static/media/marina.jpg": "/dpd/static/media/marina.988035ab9556ef66e481.jpg",
+    "static/media/early.jpg": "/dpd/static/media/early.f6a1c2ae15898a76bebe.jpg",
+    "static/media/late.jpg": "/dpd/static/media/late.943195018950d93a6e8d.jpg",
+    "static/media/mora.jpg": "/dpd/static/media/mora.39ba245bc197c6c74aae.jpg",
+    "static/media/drMarwa.jpg": "/dpd/static/media/drMarwa.4fe8abd07c3ee0cf4068.jpg",
+    "static/media/TaNajwa.jpg": "/dpd/static/media/TaNajwa.a0922cc9e751991a46e5.jpg",
+    "index.html": "/dpd/index.html",
+    "main.6ea85d0c.css.map": "/dpd/static/css/main.6ea85d0c.css.map",
+    "main.602de594.js.map": "/dpd/static/js/main.602de594.js.map",
+    "453.297527af.chunk.js.map": "/dpd/static/js/453.297527af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea85d0c.css",
+    "static/js/main.602de594.js"
+  ]
+}
