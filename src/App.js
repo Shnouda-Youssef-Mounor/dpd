@@ -24,15 +24,14 @@ function App() {
       {isLoading ? <Loading/> : 
       <>
       <Routes>
-      <Route path="/" element={<Home/>}/>
-      <Route path="/Diagnose-Treat" element={<ImageUpload/>}/>
-      <Route path="/About" element={<AboutPage/>}/>
-      <Route path="/Contact-us" element={<ContactUsPage/>}/>
+      <Route path="/dpd/" element={<Home/>}/>
+      <Route path="/dpd/Diagnose-Treat" element={<ImageUpload/>}/>
+      <Route path="/dpd/About" element={<AboutPage/>}/>
+      <Route path="/dpd/Contact-us" element={<ContactUsPage/>}/>
     </Routes>
       <div style={{position:"fixed",width:"100%",top:0,zIndex:5} }>
       <Navbar/>
       </div>
-    <Footer/>
       </>
       }
       

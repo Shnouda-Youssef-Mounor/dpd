@@ -4,6 +4,7 @@ import axios from 'axios';
 import { useDropzone } from 'react-dropzone';
 import { Spinner } from 'react-bootstrap';
 import potato from "../Assets/potato/R.png";
+import Footer from '../Components/Footer';
 
 const ImageUpload = () => {
   const [files, setFiles] = useState([]);
@@ -38,12 +39,10 @@ const ImageUpload = () => {
   };
 
   return (
-    <div className="container mt-5 pt-5 d-flex justify-content-center align-items-center">        
-      <div className="card w-50 h-25">
-        <img src={potato} className="card-img-top img-fluid fade-out" alt="potato-photo" />
-        
-        
-        
+    <div>
+      <div className="container mt-5 pt-5 mb-5 pb-5 d-flex justify-content-center align-items-center mb-sm-5 mb-md-5">        
+      <div className="card w-75 d-flex justify-content-center align-items-center">
+        <img src={potato} className="card-img-top img-fluid fade-out w-75 h-100" alt="potato-photo" />
         <div className="card-body">
           <div {...getRootProps()} className="btn btn-success text-center text-light">
             <input {...getInputProps()} />
@@ -80,6 +79,10 @@ const ImageUpload = () => {
         </div>
       </div>
     </div>
+    <div className='footer'>
+    <Footer/>
+    </div>
+  </div>
   );
 };
 

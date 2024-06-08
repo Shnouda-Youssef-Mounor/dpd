@@ -12,16 +12,16 @@ const Navbar = ()=>{
                 <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                    <NavLink className="nav-link active text-light btn" to="/" spy={true} activeClass="active" aria-current="page" smooth={true} offset={-100} duration={500}>Home</NavLink>
+                    <NavLink className="nav-link active text-light btn" to="/dpd/" spy={true} activeClass="active" aria-current="page" smooth={true} offset={-100} duration={500}>Home</NavLink>
                     </li>
                     <li className="nav-item">
-                    <NavLink className="nav-link text-light btn" to='/Diagnose-Treat' spy={true} activeClass="active" smooth={true} offset={-100} duration={500}>Diagnose && Treat</NavLink>
+                    <NavLink className="nav-link text-light btn" to='/dpd/Diagnose-Treat' spy={true} activeClass="active" smooth={true} offset={-100} duration={500}>Diagnose && Treat</NavLink>
                     </li>
                     <li className="nav-item">
-                    <NavLink className="nav-link text-light btn" to="/About" spy={true} activeClass="active" smooth={true} offset={-100} duration={500}>About</NavLink>
+                    <NavLink className="nav-link text-light btn" to="/dpd/About" spy={true} activeClass="active" smooth={true} offset={-100} duration={500}>About</NavLink>
                     </li>
                     <li className="nav-item">
-                    <NavLink className="nav-link text-light btn" to="/Contact-us" spy={true} activeClass="active" smooth={true} offset={-100} duration={500}>Contact us</NavLink>
+                    <NavLink className="nav-link text-light btn" to="/dpd/Contact-us" spy={true} activeClass="active" smooth={true} offset={-100} duration={500}>Contact us</NavLink>
                     </li>
                 </ul>
                 </div>
